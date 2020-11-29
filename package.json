@@ -1,0 +1,20 @@
+{
+  "name": "dev_camp_taks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mksoroka/dev_camp_taks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mksoroka/dev_camp_taks/issues"
+  },
+  "homepage": "https://github.com/mksoroka/dev_camp_taks#readme"
+}
